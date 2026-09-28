@@ -1,0 +1,5 @@
+com\mycompany\consolesalesapp\Consoles.class
+com\mycompany\consolesalesapp\IConsoles.class
+com\mycompany\consolesalesapp\ConsoleSales.class
+com\mycompany\consolesalesapp\ConsoleSalesApp.class
+com\mycompany\consolesalesapp\RunApplication.class
